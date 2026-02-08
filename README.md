@@ -127,12 +127,12 @@ FROM `data-warehousing-486717.homework_3.yellow_tripdata`;
 
 ```
 
-##Screenshots
+## Screenshots
 
 # Uploaded files in GCP bucket
-![files_in_GCP_bucket](screenshot/files_GCP_bucket.png)
+![files_in_GCP_bucket](screenshots/files_GCP_bucket.png)
 
 # GCP sucessfull upload
-![GCP_shell](screenshot/GCP_shell.png)
+![GCP_shell](screenshots/GCP_shell.png)
 
 
